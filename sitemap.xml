@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://musing-cray-b426bb.netlify.app/</loc>
+  <lastmod>2020-12-30T19:12:16+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://musing-cray-b426bb.netlify.app/index.html</loc>
+  <lastmod>2020-12-30T19:12:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://musing-cray-b426bb.netlify.app/about</loc>
+  <lastmod>2020-12-30T19:12:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://musing-cray-b426bb.netlify.app/research</loc>
+  <lastmod>2020-12-30T19:12:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://musing-cray-b426bb.netlify.app/transforming%20local%20communities</loc>
+  <lastmod>2020-12-30T19:12:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://musing-cray-b426bb.netlify.app/implications%20of%20covid-19</loc>
+  <lastmod>2020-12-30T19:12:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://musing-cray-b426bb.netlify.app/socioeconomic%20inequality</loc>
+  <lastmod>2020-12-30T19:12:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://musing-cray-b426bb.netlify.app/education%20reform</loc>
+  <lastmod>2020-12-30T19:12:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://musing-cray-b426bb.netlify.app/journals</loc>
+  <lastmod>2020-12-30T19:12:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
